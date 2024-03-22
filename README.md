@@ -1,3 +1,4 @@
+The following is the complete description of the python project:
 The Medico represents a cutting-edge healthcare solution that 
 seamlessly connects doctors, patients, and administrators in a 
 modern healthcare ecosystem. This system prioritizes 

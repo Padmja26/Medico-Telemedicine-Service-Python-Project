@@ -25,3 +25,5 @@ and ensuring precise disease predictions, this system aims to
 enhance healthcare outcomes and improve overall quality of life. It 
 represents a pivotal step towards a more connected, accessible, 
 and patient-focused healthcare landscape.
+
+For simplicity, the zipfile of the project has also been uploaded.
